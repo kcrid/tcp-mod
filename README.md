@@ -5,3 +5,11 @@ tcp-mod is a simple modularized tcp chat server. It is modularized in the sense 
 
 ## dependencies:
 * node.js
+
+
+## install/run
+```
+git clone https://github.com/kcrid/tcp-mod.git
+cd tcp-mod
+node tcp-mod.js
+```
