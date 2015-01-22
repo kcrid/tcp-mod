@@ -1,0 +1,5 @@
+{
+  "name": "tcp-mod",
+  "description": "a simple modularized tcp chat server",
+  "version": "0.0.1"
+}
